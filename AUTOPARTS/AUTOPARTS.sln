@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AUTOPARTS", "AUTOPARTS\AUTOPARTS.csproj", "{AC42AF73-AE0B-4B1F-918F-207352B3D28C}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs23
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AUTOPARTS\\AUTOPARTS.csproj
+		SccProjectName1 = AUTOPARTS
+		SccLocalPath1 = AUTOPARTS
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC42AF73-AE0B-4B1F-918F-207352B3D28C}.Debug|x86.ActiveCfg = Debug|x86
+		{AC42AF73-AE0B-4B1F-918F-207352B3D28C}.Debug|x86.Build.0 = Debug|x86
+		{AC42AF73-AE0B-4B1F-918F-207352B3D28C}.Release|x86.ActiveCfg = Release|x86
+		{AC42AF73-AE0B-4B1F-918F-207352B3D28C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
